@@ -1,5 +1,9 @@
 This is to demonstrate https link to git repo
 
+<<<<<<< HEAD
 Adding this line to demonstrate git tag
 
 Adding this to see the tag
+=======
+This is to demo push and pull operation
+>>>>>>> b34f66af581002566be9d328363f6a8e2bfc2c0a
